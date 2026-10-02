@@ -1,4 +1,5 @@
 # Kudos System Specification
+ link to github https://github.com/zoruy/Kudos_App.git
 
 ## 1. Purpose and Scope
 
